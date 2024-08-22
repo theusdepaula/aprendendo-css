@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Jersey+10&family=Knewave&family=Matemasie&family=Moul&family=New+Amsterdam&family=Trade+Winds&display=swap');
+body{
+    background-color: lemonchiffon;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    color: red;
+    border:5px solid black;
+    border-radius: 10px; 
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:60px;
+}
+
+p{
+    color:black;
+    text-align: center;
+    font-family: "Moul", serif;
+
+        
+}
+
+  
+.exemplo-back{
+    height:450px ;
+    background:lemonchiffon url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGz6M-gEt2IR3UJXG3MT0rK2XJshCeP8-Egw&s) no-repeat center;  
+}
+
+.botao{
+    padding-left: 33%;
+    background:black;
+    color:white;
+    padding:30px;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-radius:5px;
+}
+.botao:hover{
+    background:red
+}
+
+.teste{
+    max-width: 800px;
+    height: 300px;
+    background: blue;
+}
+
+a.botao1{
+    background: burlywood;
+    color:black;
+    padding: 5px;
+    text-decoration: none;
+    border: solid 3px;
+}
